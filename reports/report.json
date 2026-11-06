@@ -1,0 +1,18 @@
+{
+    "python_version": "3.14.7",
+    "operating_system": "Windows",
+    "disk_space": {
+        "total_gb": 280.01,
+        "free_gb": 133.62
+    },
+    "environment_variables": {
+        "HOME": "C:\\Users\\hp",
+        "TEMP": "C:\\Users\\hp\\AppData\\Local\\Temp"
+    },
+    "developer_tools": {
+        "code": true,
+        "git": true,
+        "pip": true,
+        "python": true
+    }
+}
